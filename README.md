@@ -8,5 +8,6 @@ iOs Emoji pack - [click here](https://raw.githubusercontent.com/Gabe616/Minecraf
 Microsoft Emoji pack - [click here](https://raw.githubusercontent.com/Gabe616/MinecraftEmojiRPs/main/packs/1.15%20Microsoft%20Emoji%20Pack.zip "1.15 Microsoft Emoji Pack.zip")  
 Messenger Emoji pack - [click here](https://raw.githubusercontent.com/Gabe616/MinecraftEmojiRPs/main/packs/1.15%20Messenger%20Emoji%20Pack.zip "1.15 Messenger Emoji Pack.zip")  
 WhatsApp Emoji pack - [click here](https://raw.githubusercontent.com/Gabe616/MinecraftEmojiRPs/main/packs/1.15%20WhatsApp%20Emoji%20Pack.zip "1.15 WhatsApp Emoji Pack.zip")  
+Samsung Emoji pack - [click here](https://raw.githubusercontent.com/Gabe616/MinecraftEmojiRPs/main/packs/1.15%20Samsung%20Emoji%20Pack.zip "1.15 Samsung Emoji Pack.zip")  
 
 ### DOYO UA HWVE AN IDEA FOR A BRAND WAHICH i SOHULD ADD OR A BGUFIX FOR A AWPACK?????? CREATE AN ISEU
